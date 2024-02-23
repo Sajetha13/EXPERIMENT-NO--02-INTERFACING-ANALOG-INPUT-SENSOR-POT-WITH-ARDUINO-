@@ -1,6 +1,7 @@
- #INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
+ # INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
-Name: S.Sajetha                                        Reference no: 212223100049
+Name: S.Sajetha                       
+Reference no: 212223100049
 
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
