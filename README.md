@@ -111,9 +111,11 @@ Serial Model (Graph):
 
 
 ON condition:
+
 ![image](https://github.com/Sajetha13/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/138849316/cab9617e-ac36-4b4d-840e-579a7421b2bf)
 
 OFF condition:
+
 ![image](https://github.com/Sajetha13/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/138849316/08d9527e-8f5d-48c7-94a1-8f9204f52f04)
 
 
