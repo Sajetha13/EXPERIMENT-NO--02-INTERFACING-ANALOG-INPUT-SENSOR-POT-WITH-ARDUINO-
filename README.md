@@ -84,7 +84,7 @@ void loop()
   if(pot>900)
   {
   digitalWrite(led, HIGH);
-  delay(500); // Wait for 	1000 millisecond(s)
+  delay(500); // Wait for 1000 millisecond(s)
   digitalWrite(led, LOW);
   delay(500); // Wait for 1000 millisecond(s)
   }
@@ -95,6 +95,7 @@ void loop()
   }
 }
 ```
+Serial Model (Graph):
 ![image](https://github.com/Sajetha13/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/138849316/815eb98c-77c3-4823-8594-662a86416f32)
 
 
@@ -105,7 +106,9 @@ void loop()
 
 **
 **Simulation output:** 
+
 **
+
 ON condition:
 ![image](https://github.com/Sajetha13/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/138849316/cab9617e-ac36-4b4d-840e-579a7421b2bf)
 
@@ -113,9 +116,9 @@ OFF condition:
 ![image](https://github.com/Sajetha13/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/138849316/08d9527e-8f5d-48c7-94a1-8f9204f52f04)
 
 
-[My image](username.github.com/repository/img/image.jpg)
 
 Schematic View:
+
 ![image](https://github.com/Sajetha13/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/138849316/96f8f27d-05e7-4b34-8256-b23bc0a30876)
 
 
@@ -123,4 +126,5 @@ Schematic View:
 
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+**RESULT: ** 
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
