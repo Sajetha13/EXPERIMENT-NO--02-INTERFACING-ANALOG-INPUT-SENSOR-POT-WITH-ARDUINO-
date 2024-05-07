@@ -4,10 +4,11 @@
 # Reference no: 212223100049
 
 
-**AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
+## **AIM**:  
+To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
 
-**COMPONENTS REQUIRED:**
+## **COMPONENTS REQUIRED:**
 1.	10 KΩPOT
 2.	1 KΩ resistor 
 3.	Arduino Uno 
